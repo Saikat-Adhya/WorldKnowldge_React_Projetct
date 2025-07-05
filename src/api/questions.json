@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is React?",
+    "options": ["Library", "Framework", "Language", "Tool"],
+    "answer": "Library"
+  },
+  {
+    "question": "What hook is used for state?",
+    "options": ["useRef", "useState", "useEffect", "useContext"],
+    "answer": "useState"
+  },
+  {
+    "question": "Which method is used to render UI?",
+    "options": ["render()", "useRender()", "return()", "UI()"],
+    "answer": "return()"
+  }
+]
